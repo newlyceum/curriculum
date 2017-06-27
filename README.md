@@ -14,7 +14,7 @@ This document is a starting point for organizing curriculum materials.
 
 * basic communication skills, including reading, writing, and the use of numbers,
 * citizenship, history, and government in Vermont and the United States,
-* physical education and comprehensive health education, including the effects of tobacco, alcoholic drinks, and drugs on the human system and on society,
+* physical education and comprehensive health education, including the effects of tobacco, alcoholic drinks, and drugs on the human system and on society, ([free classroom resources](https://teens.drugabuse.gov/teachers))
 * English, American, and other literature,
 * the natural sciences, and
 * the fine arts.

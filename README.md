@@ -23,3 +23,11 @@ This document is a starting point for organizing curriculum materials.
 ## Writing / Publishing / Illustrating
 
 * [NaNoWriMo's Young Writers Program](https://ywp.nanowrimo.org/pages/writer-resources)
+
+## Advanced Subjects
+
+* [OpenStax textbooks](https://openstax.org/subjects)
+
+## Other Resources
+
+* [Alliance for Self-Directed Education](https://www.self-directed.org/)

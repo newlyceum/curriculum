@@ -6,6 +6,7 @@ This document is a starting point for organizing curriculum materials.
 
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
+* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study)
 
 ## Digital / Media Literacy
 

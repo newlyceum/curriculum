@@ -1,6 +1,6 @@
 # Homeschool Curriculum
 
-This document is a starting point for organizing curriculum materials.
+This document is a starting point for organizing homeschool resources.
 
 ## Compliance / Core / Curriculum
 

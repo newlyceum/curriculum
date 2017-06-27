@@ -2,11 +2,22 @@
 
 This document is a starting point for organizing curriculum materials.
 
-## Core / Compliance Curriculum
+## Core / Compliance / Curriculum
 
+* [Homeschool Legal Defense Association (HSLDA)](http://hslda.org)
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
-* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study)
+* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
+* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
+
+### VT Required Subjects (for narrative)
+
+* basic communication skills, including reading, writing, and the use of numbers,
+* citizenship, history, and government in Vermont and the United States,
+* physical education and comprehensive health education, including the effects of tobacco, alcoholic drinks, and drugs on the human system and on society,
+* English, American, and other literature,
+* the natural sciences, and
+* the fine arts.
 
 ## Digital / Media Literacy
 

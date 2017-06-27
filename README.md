@@ -4,7 +4,7 @@ This document is a starting point for organizing curriculum materials.
 
 ## Compliance / Core / Curriculum
 
-* [Homeschool Legal Defense Association (HSLDA)](http://hslda.org)
+* [Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)

@@ -1,4 +1,4 @@
-# Homeschool Curriculum
+# Homeschool Resources
 
 This document is a starting point for organizing homeschool resources.
 

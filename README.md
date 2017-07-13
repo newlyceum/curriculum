@@ -40,6 +40,13 @@ This document is a starting point for organizing homeschool resources.
 
 * [OpenStax textbooks](https://openstax.org/subjects)
 
+## Pedagogy
+
+* Postman, Neil. The End of Education.
+* Postman, Neil. Teaching as a Subversive Activity.
+* Gray, Peter. Free to Learn.
+* (Found both of Postman's books more relevant, practical, than Ivan Illich's Deschooling Society or John Holt's Instead of Education.)
+
 ## Other Resources
 
 * [Alliance for Self-Directed Education](https://www.self-directed.org/)

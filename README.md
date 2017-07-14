@@ -49,5 +49,5 @@ This document is a starting point for organizing homeschool resources.
 
 ## Other Resources
 
-* [Alliance for Self-Directed Education](https://www.self-directed.org/)
+* [Alliance for Self-Directed Education](https://www.self-directed.org/) (Peter Gray)
 * [Hack Education](http://hackeducation.com/)

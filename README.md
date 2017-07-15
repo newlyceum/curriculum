@@ -8,6 +8,7 @@ This document is a starting point for organizing homeschool resources.
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
+* [Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)
 * [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
 
 #### Vermont Historical Society

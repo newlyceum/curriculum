@@ -10,6 +10,8 @@ This document is a starting point for organizing homeschool resources.
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
 
+> Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
+
 ### VT Required Subjects (narrative must cover)
 
 * basic communication skills, including reading, writing, and the use of numbers,

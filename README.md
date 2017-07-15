@@ -6,13 +6,17 @@ This document is a starting point for organizing homeschool resources.
 
 * [Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
-* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
+* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
+
+#### Vermont Historical Society
 
 > Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
 
 > Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year -long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
+
+> Homeschool families or groups can borrow a [Vermont history kit or lending library books](http://vermonthistory.org/educate/in-your-classroom).
 
 ### VT Required Subjects (narrative must cover)
 

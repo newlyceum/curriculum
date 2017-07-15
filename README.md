@@ -14,7 +14,7 @@ This document is a starting point for organizing homeschool resources.
 
 * basic communication skills, including reading, writing, and the use of numbers,
 * citizenship, history, and government in Vermont and the United States,
-* physical education and comprehensive health education, including the effects of tobacco, alcoholic drinks, and drugs on the human system and on society, ([free classroom resources](https://teens.drugabuse.gov/teachers))
+* physical education and comprehensive health education, including the effects of tobacco, alcoholic drinks, and drugs on the human system and on society, ([free classroom resources](https://teens.drugabuse.gov/teachers), and [here](https://teens.drugabuse.gov/national-drug-alcohol-facts-week/order-free-materials) and [here](http://headsup.scholastic.com/teachers/collections/compilations-past-issues#annualcompilations))
 * English, American, and other literature,
 * the natural sciences, and
 * the fine arts.

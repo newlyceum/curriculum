@@ -37,6 +37,7 @@ This document is a starting point for organizing homeschool resources.
 ## Coding
 
 * [Scratch](http://scratch.mit.edu)
+  * [Scratch 3.0 / Scratch for education](https://ww2.kqed.org/mindshift/2017/07/17/mits-scratch-program-is-evolving-for-greater-more-mobile-creativity/)
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Jekyll](http://jekyllrb.com)
 * [GitHub Pages](https://pages.github.com/)

@@ -15,4 +15,4 @@
 
 ### Essays and reports as articles and reviews
 
-When you do work for school, you write an answer to a question, but when you write an article for other people—or an essay—they didn't ask a question or may not be aware of the question. How do you write so that you state the question you'll be answering?
+When you do work for school, you write an answer to a question, but when you write an article—or an essay—for other people to read they didn't start by asking a question, or may not be aware of the question you're answering. How do you write so that you state the question you'll be answering?

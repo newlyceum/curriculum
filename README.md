@@ -41,6 +41,7 @@ This document is a starting point for organizing homeschool resources.
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Jekyll](http://jekyllrb.com)
 * [GitHub Pages](https://pages.github.com/)
+* [LearnToMod](https://www.learntomod.com/)
 
 ## Writing / Publishing / Illustrating
 

@@ -1,4 +1,5 @@
 * [ ] Name / logo / motto project
+  * [ ] Print [New Lyceum stuff](https://newlyceum.github.io/#newlyceum)
 * [ ] Set up blogs, blog categories (exercise, daily journal)
 * [ ] Talk about essays and reports as articles and reviews
 * [ ] How I Spent My Summer Vacation

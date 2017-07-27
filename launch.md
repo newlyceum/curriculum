@@ -1,6 +1,7 @@
 * [ ] Name / logo / motto project
 * [ ] Set up blogs, blog categories (exercise, daily journal)
 * [ ] Talk about essays and reports as articles and reviews
+* [ ] How I Spent My Summer Vacation
 * [ ] Choose one of Aesop's fables and explain how it relates to modern life
 
 #### Summer vacation, Jack

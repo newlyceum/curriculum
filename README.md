@@ -47,6 +47,10 @@ This document is a starting point for organizing homeschool resources.
 
 * [NaNoWriMo's Young Writers Program](https://ywp.nanowrimo.org/pages/writer-resources)
 
+## Foreign Language?
+
+* ???
+
 ## Advanced Subjects
 
 * [OpenStax textbooks](https://openstax.org/subjects)

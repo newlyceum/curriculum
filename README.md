@@ -5,6 +5,8 @@ This document is a starting point for organizing homeschool resources.
 ## Compliance / Core / Curriculum
 
 * [Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))
+  * [Checklist](https://hslda.org/earlyyears/checklist.asp)
+  * [Resources](https://hslda.org/earlyyears/Resources.asp)
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
 * [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
 * [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)

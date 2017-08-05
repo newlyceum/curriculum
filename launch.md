@@ -9,10 +9,12 @@
 
 * Little River History Trail
 * Article + illustration published in Montpelier Bridge's Breeze
+* Wind farm
 
 #### Summer vacation, Simon
 
 * Little River History Trail
+* Wind farm
 
 ### Essays and reports as articles and reviews
 

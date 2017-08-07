@@ -7,8 +7,8 @@
     * [ ] Cobalt blue
     * [ ] Carmine red
     * [ ] Cadmium pale yellow
-    * [ ] 3/4" water color brush
-    * [ ] Water color paper
+  * [ ] 3/4" water color brush
+  * [ ] Water color paper
   * [ ] *Optional: Bookbinding, other craft supplies found in [3rd grade kit](http://www.oakmeadowbookstore.com/Curriculum/Third-Grade/Third-Grade-Craft-Kit-w-o-Recorders-p2179.html)*
 * 5th Grade
   * [ ] 2 magnifying glasses

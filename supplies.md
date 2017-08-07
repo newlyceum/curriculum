@@ -9,7 +9,7 @@
   * [ ] *Optional: Bookbinding, other craft supplies found in [3rd grade kit](http://www.oakmeadowbookstore.com/Curriculum/Third-Grade/Third-Grade-Craft-Kit-w-o-Recorders-p2179.html)*
 * 5th Grade
   * [ ] 2 magnifying glasses
-  * [ ] Historical craft supplies found in [5th grade kit](http://www.oakmeadowbookstore.com/Curriculum/Fifth-Grade/Fifth-Grade-Craft-Kit-p2790.html)
+  * [ ] Historical craft supplies found in [5th grade kit](http://www.oakmeadowbookstore.com/Curriculum/Fifth-Grade/Fifth-Grade-Craft-Kit-p2790.html) (Still waiting for Social Studies book to know how much these fit in)
   * [ ] Microscope with slides
 * General
   * [ ] Index cards

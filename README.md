@@ -17,7 +17,7 @@ This document is a starting point for organizing homeschool resources.
 
 > Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
 
-> Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year -long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
+> Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year-long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
 
 > Homeschool families or groups can borrow a [Vermont history kit or lending library books](http://vermonthistory.org/educate/in-your-classroom).
 

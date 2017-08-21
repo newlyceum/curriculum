@@ -17,6 +17,10 @@
 * Little River History Trail
 * Wind farm
 
+#### Thousand Islands
+
+"This summer I visited the Thousand Islands region of New York State. I went on boat rides on the St. Lawrence River, including in Canadian waters, where I saw islands with homes on them. If I owned an island, I would call it * and it would have..."
+
 ### Essays and reports as articles and reviews
 
 When you do work for school, you write an answer to a question, but when you write an article—or an essay—for other people to read they didn't start by asking a question, or may not be aware of the question you're answering. How do you write so that you state the question you'll be answering?

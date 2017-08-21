@@ -6,6 +6,10 @@
 * [ ] Timeline
 * [ ] Sustainable documentary
   * [ ] Farm-to-table dining?
+    * [ ] Burlington: http://www.farmhousetg.com/menus/lunch/
+    * [ ] Burlington: http://www.cortijovt.com/menus/lunch-dinner/
+    * [ ] Waterbury: http://www.vermontfresh.net/search-members/member-list/member/reservoir-the
+    * [ ] Montpelier: http://www.neci.edu/restaurants/neci-on-main/dinner-menu/
 
 #### Summer vacation, Jack
 

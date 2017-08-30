@@ -3,7 +3,7 @@
 * [x] Set up blogs, blog categories (exercise, daily journal)
 * [ ] Talk about essays and reports as articles and reviews
 * [ ] How I Spent My Summer Vacation
-* [ ] Hour of Code Activities (See Scratch activities)
+* [ ] [Hour of Code Activities](https://hourofcode.com/us/learn) (See Scratch activities)
 * [ ] Timeline
 * [ ] Sustainable documentary
   * [ ] Gather local food data at farmer's market, co-op?

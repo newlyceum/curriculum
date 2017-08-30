@@ -1,15 +1,17 @@
-* [ ] Name / logo / motto project
-  * [ ] Print [New Lyceum stuff](https://newlyceum.github.io/#newlyceum)
-* [ ] Set up blogs, blog categories (exercise, daily journal)
+* [x] Name / logo / motto project
+  * [x] Print [New Lyceum stuff](https://newlyceum.github.io/#newlyceum)
+* [x] Set up blogs, blog categories (exercise, daily journal)
 * [ ] Talk about essays and reports as articles and reviews
 * [ ] How I Spent My Summer Vacation
+* [ ] Hour of Code Activities (See Scratch activities)
 * [ ] Timeline
 * [ ] Sustainable documentary
-  * [ ] Farm-to-table dining?
-    * [ ] Burlington: http://www.farmhousetg.com/menus/lunch/
-    * [ ] Burlington: http://www.cortijovt.com/menus/lunch-dinner/
-    * [ ] Waterbury: http://www.vermontfresh.net/search-members/member-list/member/reservoir-the
-    * [ ] Montpelier: http://www.neci.edu/restaurants/neci-on-main/dinner-menu/
+  * [ ] Gather local food data at farmer's market, co-op?
+  * [ ] *Farm-to-table dining?*
+    * [ ] *Burlington: http://www.farmhousetg.com/menus/lunch/*
+    * [ ] *Burlington: http://www.cortijovt.com/menus/lunch-dinner/*
+    * [ ] *Waterbury: http://www.vermontfresh.net/search-members/member-list/member/reservoir-the*
+    * [ ] *Montpelier: http://www.neci.edu/restaurants/neci-on-main/dinner-menu/*
 
 #### Summer vacation, Jack
 
@@ -24,7 +26,7 @@
 
 #### Thousand Islands
 
-"This summer I visited the Thousand Islands region of New York State. I went on boat rides on the St. Lawrence River, including in Canadian waters, where I saw islands with homes on them. If I owned an island, I would call it * and it would have..."
+"This summer I visited the Thousand Islands region of New York State. I went on boat rides on the St. Lawrence River, including in Canadian waters, where I saw islands with homes on them. If I owned an island, I would call it ??? and it would have..."
 
 ### Essays and reports as articles and reviews
 

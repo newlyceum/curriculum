@@ -2,6 +2,11 @@
 
 This document is a starting point for organizing homeschool resources.
 
+## For 2019: Start in the fall:
+
+* http://vermonthistory.org/educate/vermont-history-day
+* Audubon: Both kids in same age group
+
 ## Compliance / Core / Curriculum
 
 * [Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))

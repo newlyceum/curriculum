@@ -74,3 +74,4 @@ This document is a starting point for organizing homeschool resources.
 
 * [Alliance for Self-Directed Education](https://www.self-directed.org/) (Peter Gray)
 * [Hack Education](http://hackeducation.com/)
+* [Vermont Energy Education Program](http://veep.org/veep-programs/veep-curricula/)

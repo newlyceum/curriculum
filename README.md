@@ -7,6 +7,7 @@ This document is a starting point for organizing homeschool resources.
 * http://vermonthistory.org/educate/vermont-history-day
 * Audubon: Both kids in same age group
 * https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php
+* https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
 
 ## Compliance / Core / Curriculum
 

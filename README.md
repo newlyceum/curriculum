@@ -15,6 +15,8 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 
 Work on structure & scheduling, talk about [Maker vs. Manager](http://www.paulgraham.com/makersschedule.html).
 
+Can we do more deep dive project-based learning? What topics/interests/goals?
+
 ## Compliance / Core / Curriculum
 
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017]

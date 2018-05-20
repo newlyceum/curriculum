@@ -99,6 +99,7 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * [Birch Bark Series](https://www.amazon.com/Birchbark-House-Louise-Erdrich/dp/0786814543)
 * [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
 * [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
+* Simon kept up with [Journey North](http://journeynorth.org) updates most weeks and wrote journal entries – Founder is VT-based [2017]
 
 ## Pedagogy
 

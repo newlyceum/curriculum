@@ -5,9 +5,10 @@ UPDATED FOR 2018. This document is a starting point for organizing homeschool re
 ## For 2019: Start in the fall:
 
 * http://vermonthistory.org/educate/vermont-history-day
-* Audubon: Both kids in same age group
+* Audubon: Both kids in same age group, we'll aim to do this more
 * https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php
 * https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
+* We'll be doing Billings Farm again
 
 ## Compliance / Core / Curriculum
 

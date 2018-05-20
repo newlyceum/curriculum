@@ -75,6 +75,10 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 * [OpenStax textbooks](https://openstax.org/subjects)
 
+## Supplemental
+
+* Zinn's A Young People's History of the United States
+
 ## Pedagogy
 
 * Postman, Neil. The End of Education.

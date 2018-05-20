@@ -4,7 +4,7 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 ## For 2019: Start in the fall:
 
-* http://vermonthistory.org/educate/vermont-history-day
+* *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more
 * https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php
 * https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
@@ -28,7 +28,7 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 > Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
 
-> *Encourage Jack to do this.* Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year-long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
+> Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year-long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
 
 > Homeschool families or groups can borrow a [Vermont history kit or lending library books](http://vermonthistory.org/educate/in-your-classroom).
 

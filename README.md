@@ -1,21 +1,19 @@
 # Homeschool Resources
 
-UPDATED FOR 2018. This document is a starting point for organizing homeschool resources.
+UPDATED FOR 2019. This document is a starting point for organizing homeschool resources.
 
 ## For 2019: Start in the fall:
 
 * http://vermonthistory.org/educate/vermont-history-day
-* Audubon: Both kids in same age group, we'll aim to do this more
+* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more
 * https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php
 * https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
 * We'll be doing Billings Farm again
+* Watch for Thursday workshops at Pacem School &ndash; 2017-2018 included cake decorating, tabletop game design
 
 ## Compliance / Core / Curriculum
 
-* We paid for this in 2017 because it seemed like the right thing to do, but doesn't seem to be necessary or a concern in VT. ~~[Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))~~
-  * ~~[Checklist](https://hslda.org/earlyyears/checklist.asp)~~
-  * ~~[Resources](https://hslda.org/earlyyears/Resources.asp)~~
-* URL is still valid for 2018, but deadlines have changed. [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
+* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study)
 * Completed. ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~
 * [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)
 * Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
@@ -29,7 +27,7 @@ UPDATED FOR 2018. This document is a starting point for organizing homeschool re
 
 > Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
 
-> Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year-long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
+> *Encourage Jack to do this.* Homeschoolers ages 10 to 18 are welcome to participate in [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day), a year-long education program that encourages students to delve into a topic, examine it thoroughly, and present historical research at a statewide competition.
 
 > Homeschool families or groups can borrow a [Vermont history kit or lending library books](http://vermonthistory.org/educate/in-your-classroom).
 

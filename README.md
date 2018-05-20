@@ -83,7 +83,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 ## Supplemental
 
 * Zinn's A Young People's History of the United States [2017]
-* BrainQuest Workbooks [2017 for 3rd grade]
+* BrainQuest Workbooks [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
 * [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309)
 * [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206)
 * [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728)

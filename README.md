@@ -13,6 +13,8 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * We'll be doing History for Homeschoolers again [2017]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe?
 
+Work on structure & scheduling, talk about [Maker vs. Manager](http://www.paulgraham.com/makersschedule.html).
+
 ## Compliance / Core / Curriculum
 
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017]

@@ -1,6 +1,6 @@
 # Homeschool Resources
 
-UPDATED FOR 2018-2019. This document is a starting point for organizing homeschool resources.
+UPDATED FOR 2018-2019. This document is a starting point for organizing homeschool resources. *([2017] indicates we used it in 2017-2018. I removed stuff we ended up not using.)*
 
 ## For 2018-2019: Start in the fall:
 

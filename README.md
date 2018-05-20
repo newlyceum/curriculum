@@ -29,6 +29,11 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
 * [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool) [2017]
 
+## Additional Curriculum
+
+* [Khan Academy Grammar](https://www.khanacademy.org/humanities/grammar)
+* More challenging for Simon [Beast Academy 3C & 3D](https://beastacademy.com/books/3C)
+
 #### Vermont Historical Society
 
 > Homeschool families can visit the Vermont History Museum [Montpelier] and the Vermont Heritage Galleries [Barre] for free. Call the museum front desk at (802) 828-2291 for further details.
@@ -88,10 +93,13 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 
 * Zinn's A Young People's History of the United States [2017]
 * BrainQuest Workbooks [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
-* [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309)
-* [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206)
-* [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728)
-* World & US maps
+* [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309) [2017]
+* [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206) [2017]
+* [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728) [2017]
+* World & US maps [2017]
+* [Birch Bark Series](https://www.amazon.com/Birchbark-House-Louise-Erdrich/dp/0786814543)
+* [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
+* [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
 
 ## Pedagogy
 

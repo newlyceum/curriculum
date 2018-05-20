@@ -22,7 +22,7 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
   * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
 * [Latin?](https://oakmeadow.com/news/courses/latin-i/)
 * *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
-* *[Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)*
+* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
 
 #### Vermont Historical Society
 

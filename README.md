@@ -25,14 +25,13 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/) [2017]
 * [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)
   * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
-* [Latin?](https://oakmeadow.com/news/courses/latin-i/)
-* *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
 * [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool) [2017]
 
 ## Additional Curriculum
 
 * [Khan Academy Grammar](https://www.khanacademy.org/humanities/grammar)
 * More challenging for Simon [Beast Academy 3C & 3D](https://beastacademy.com/books/3C)
+* *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
 
 #### Vermont Historical Society
 

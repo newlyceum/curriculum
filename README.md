@@ -53,6 +53,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * [Scratch](http://scratch.mit.edu) [2017]
   * [Scratch 3.0 / Scratch for education](https://ww2.kqed.org/mindshift/2017/07/17/mits-scratch-program-is-evolving-for-greater-more-mobile-creativity/)
 * [Khan Academy](https://www.khanacademy.org/) [2017]
+* Thought not 'coding,' we used GarageBand and iMovie (for stop motion with pictures taken with an old iPhone) a lot
 
 ### This is what our journals use; might use for projects
 

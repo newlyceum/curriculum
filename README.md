@@ -70,6 +70,9 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 ## Foreign Language?
 
 * [Latin?](https://oakmeadow.com/news/courses/latin-i/)
+  * [Audio CD](https://www.amazon.com/North-American-Cambridge-Latin-Course/dp/0521005027/ref=sr_1_1?ie=UTF8&qid=1526782388&sr=8-1&keywords=Cambridge+Latin+Course%3A+Unit+1+audio+cd)
+  * [Book](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
+  * [Workbook](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
 
 ## Advanced Subjects
 

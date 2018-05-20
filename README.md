@@ -11,6 +11,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * We'll be doing Billings Farm again [2017]
 * Watch for Thursday workshops at Pacem School &ndash; 2017-2018 included cake decorating, tabletop game design
 * We'll be doing History for Homeschoolers again [2017]
+* Meetups at The Swimming Hole in Stowe?
 
 ## Compliance / Core / Curriculum
 

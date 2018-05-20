@@ -31,7 +31,7 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 ## Additional Curriculum
 
 * [Khan Academy Grammar](https://www.khanacademy.org/humanities/grammar)
-* More challenging for Simon [Beast Academy 3C & 3D](https://beastacademy.com/books/3C)
+* [Beast Academy 3C & 3D](https://beastacademy.com/books/3C) (More challenging for Simon)
 * *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
 
 #### Vermont Historical Society

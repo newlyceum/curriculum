@@ -5,24 +5,24 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 ## For 2019: Start in the fall:
 
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
-* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more
+* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more. [2017]
 * https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php
 * https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
-* We'll be doing Billings Farm again
+* We'll be doing Billings Farm again [2017]
 * Watch for Thursday workshops at Pacem School &ndash; 2017-2018 included cake decorating, tabletop game design
-* We'll be doing History for Homeschoolers again
+* We'll be doing History for Homeschoolers again [2017]
 
 ## Compliance / Core / Curriculum
 
-* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study)
-* Completed. ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~
+* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017]
+* Completed. ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~ [2017]
 * [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)
-* Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
+* Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/) [2017]
 * [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)
   * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
 * [Latin?](https://oakmeadow.com/news/courses/latin-i/)
 * *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
-* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
+* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool) [2017]
 
 #### Vermont Historical Society
 
@@ -49,14 +49,14 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 ## Coding
 
-* [Scratch](http://scratch.mit.edu)
+* [Scratch](http://scratch.mit.edu) [2017]
   * [Scratch 3.0 / Scratch for education](https://ww2.kqed.org/mindshift/2017/07/17/mits-scratch-program-is-evolving-for-greater-more-mobile-creativity/)
-* [Khan Academy](https://www.khanacademy.org/)
+* [Khan Academy](https://www.khanacademy.org/) [2017]
 
 ### This is what our journals use; might use for projects
 
-* [Jekyll](http://jekyllrb.com)
-* [GitHub Pages](https://pages.github.com/)
+* [Jekyll](http://jekyllrb.com) [2017]
+* [GitHub Pages](https://pages.github.com/) [2017]
 
 ### Did not use
 
@@ -65,7 +65,7 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 ## Writing / Publishing / Illustrating
 
-* [NaNoWriMo's Young Writers Program](https://ywp.nanowrimo.org/pages/writer-resources)
+* [NaNoWriMo's Young Writers Program](https://ywp.nanowrimo.org/pages/writer-resources) [2017]
 
 ## Foreign Language?
 
@@ -80,14 +80,14 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 ## Supplemental
 
-* Zinn's A Young People's History of the United States
+* Zinn's A Young People's History of the United States [2017]
 
 ## Pedagogy
 
-* Postman, Neil. The End of Education.
-* Postman, Neil. Teaching as a Subversive Activity.
-* Gray, Peter. Free to Learn.
-* (Found both of Postman's books more relevant, practical, than Ivan Illich's Deschooling Society or John Holt's Instead of Education.)
+* Postman, Neil. The End of Education. [2017]
+* Postman, Neil. Teaching as a Subversive Activity. [2017]
+* Gray, Peter. Free to Learn. [2017]
+* (Found both of Postman's books more relevant, practical, than Ivan Illich's Deschooling Society or John Holt's Instead of Education.) [2017]
 
 ## Other Resources
 

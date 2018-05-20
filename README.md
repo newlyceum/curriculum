@@ -1,8 +1,8 @@
 # Homeschool Resources
 
-UPDATED FOR 2019. This document is a starting point for organizing homeschool resources.
+UPDATED FOR 2018-2019. This document is a starting point for organizing homeschool resources.
 
-## For 2019: Start in the fall:
+## For 2018-2019: Start in the fall:
 
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more. [2017]

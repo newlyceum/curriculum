@@ -10,6 +10,7 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 * https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf
 * We'll be doing Billings Farm again
 * Watch for Thursday workshops at Pacem School &ndash; 2017-2018 included cake decorating, tabletop game design
+* We'll be doing History for Homeschoolers again
 
 ## Compliance / Core / Curriculum
 
@@ -20,8 +21,8 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 * [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)
   * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
 * [Latin?](https://oakmeadow.com/news/courses/latin-i/)
-* We had a 2017-2018 Montshire pass, but only went once. *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)*
-* We'll be doing History for Homeschoolers again. *[Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)*
+* *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
+* *[Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)*
 
 #### Vermont Historical Society
 

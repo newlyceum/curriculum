@@ -51,9 +51,16 @@ UPDATED FOR 2019. This document is a starting point for organizing homeschool re
 
 * [Scratch](http://scratch.mit.edu)
   * [Scratch 3.0 / Scratch for education](https://ww2.kqed.org/mindshift/2017/07/17/mits-scratch-program-is-evolving-for-greater-more-mobile-creativity/)
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
+* [Khan Academy](https://www.khanacademy.org/)
+
+### This is what our journals use; might use for projects
+
 * [Jekyll](http://jekyllrb.com)
 * [GitHub Pages](https://pages.github.com/)
+
+### Did not use
+
+* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 * [LearnToMod](https://www.learntomod.com/)
 
 ## Writing / Publishing / Illustrating

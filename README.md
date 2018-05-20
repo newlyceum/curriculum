@@ -1,6 +1,6 @@
 # Homeschool Resources
 
-This document is a starting point for organizing homeschool resources.
+UPDATED FOR 2018. This document is a starting point for organizing homeschool resources.
 
 ## For 2019: Start in the fall:
 
@@ -11,15 +11,18 @@ This document is a starting point for organizing homeschool resources.
 
 ## Compliance / Core / Curriculum
 
-* [Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))
-  * [Checklist](https://hslda.org/earlyyears/checklist.asp)
-  * [Resources](https://hslda.org/earlyyears/Resources.asp)
-* [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
-* [Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)
-* [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
-  * [Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)
-* [Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)
-* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)
+* We paid for this in 2017 because it seemed like the right thing to do, but doesn't seem to be necessary or a concern in VT. ~~[Homeschool Legal Defense Association (HSLDA)](http://hslda.org) ([VT](https://hslda.org/hs101/VT.aspx))~~
+  * ~~[Checklist](https://hslda.org/earlyyears/checklist.asp)~~
+  * ~~[Resources](https://hslda.org/earlyyears/Resources.asp)~~
+* URL is still valid for 2018, but deadlines have changed. [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) (Forms, Guides – Enrollment deadline is Labor Day, 7/15 encouraged)
+* Completed. ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~
+* [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)
+* Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)
+* [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)
+  * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
+* [Latin?](https://oakmeadow.com/news/courses/latin-i/)
+* We had a 2017-2018 Montshire pass, but only went once. *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)*
+* We'll be doing History for Homeschoolers again. *[Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)*
 
 #### Vermont Historical Society
 
@@ -59,7 +62,7 @@ This document is a starting point for organizing homeschool resources.
 
 ## Foreign Language?
 
-* ???
+* [Latin?](https://oakmeadow.com/news/courses/latin-i/)
 
 ## Advanced Subjects
 

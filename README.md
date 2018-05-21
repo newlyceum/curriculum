@@ -92,7 +92,7 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 ## Supplemental
 
 * Zinn's A Young People's History of the United States [2017]
-* BrainQuest Workbooks [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
+* [BrainQuest Workbooks](https://www.amazon.com/Brain-Quest-Workbook-Grade-4/dp/0761150188/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1526864186&sr=1-1-catcorr&keywords=brainquest+grade+4) [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
 * [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309) [2017]
 * [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206) [2017]
 * [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728) [2017]

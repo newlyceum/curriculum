@@ -98,10 +98,6 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
   * [Book](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
   * [Workbook](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
 
-## Advanced Subjects
-
-* [OpenStax textbooks](https://openstax.org/subjects)
-
 ## Pedagogy
 
 * Postman, Neil. The End of Education. [2017]
@@ -118,3 +114,8 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
   * [Mihaly Csikszentmihalyi: Motivating People to Learn](https://www.edutopia.org/mihaly-csikszentmihalyi-motivating-people-learn)
   * [Eight Tips for Fostering Flow in the Classroom](https://greatergood.berkeley.edu/article/item/eight_tips_for_fostering_flow_in_the_classroom)
   * [Can Schools Help Students Find Flow?](https://greatergood.berkeley.edu/article/item/can_schools_help_students_find_flow)
+
+## Advanced Subjects
+
+* [OpenStax textbooks](https://openstax.org/subjects)
+* [Art of Problem Solving](https://artofproblemsolving.com/)

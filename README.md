@@ -57,6 +57,19 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * [Common Sense Education](https://www.commonsense.org/education/)
 * [Common Sense Research](https://www.commonsensemedia.org/research/news-and-americas-kids) (Parent Resources + Educator Toolkits)
 
+## Supplemental
+
+* Zinn's A Young People's History of the United States [2017]
+* [BrainQuest Workbooks](https://www.amazon.com/Brain-Quest-Workbook-Grade-4/dp/0761150188/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1526864186&sr=1-1-catcorr&keywords=brainquest+grade+4) [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
+* [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309) [2017]
+* [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206) [2017]
+* [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728) [2017]
+* World & US maps [2017]
+* [Birch Bark Series](https://www.amazon.com/Birchbark-House-Louise-Erdrich/dp/0786814543)
+* [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
+* [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
+* Simon kept up with [Journey North](http://journeynorth.org) updates most weeks and wrote journal entries – Founder is VT-based [2017]
+
 ## Coding
 
 * [Scratch](http://scratch.mit.edu) [2017]
@@ -88,19 +101,6 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 ## Advanced Subjects
 
 * [OpenStax textbooks](https://openstax.org/subjects)
-
-## Supplemental
-
-* Zinn's A Young People's History of the United States [2017]
-* [BrainQuest Workbooks](https://www.amazon.com/Brain-Quest-Workbook-Grade-4/dp/0761150188/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1526864186&sr=1-1-catcorr&keywords=brainquest+grade+4) [3rd grade in 2017, for comprehension, paragraph writing, spelling, math practice, US maps]
-* [America's Bill of Rights](http://www.bearpondbooks.com/book/9780062352309) [2017]
-* [Encyclopedia of Science](http://www.bearpondbooks.com/book/9780756622206) [2017]
-* [Backyard Stars](http://www.bearpondbooks.com/book/9781570541728) [2017]
-* World & US maps [2017]
-* [Birch Bark Series](https://www.amazon.com/Birchbark-House-Louise-Erdrich/dp/0786814543)
-* [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
-* [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
-* Simon kept up with [Journey North](http://journeynorth.org) updates most weeks and wrote journal entries – Founder is VT-based [2017]
 
 ## Pedagogy
 

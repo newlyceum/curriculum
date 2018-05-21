@@ -69,6 +69,15 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
 * [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
 * Simon kept up with [Journey North](http://journeynorth.org) updates most weeks and wrote journal entries – Founder is VT-based [2017]
+* Beautiful Feet [Medieval History](http://bfbooks.com/Medieval-History-Intermediate-Pack) / Cherry-picking:
+  * [Study Guide](http://bfbooks.com/Medieval-Intermediate-Study-Guide?sc=17&category=847)
+  * [Timeline](http://bfbooks.com/Medieval-History-Timeline)
+  * [The European World 400-1450](http://bfbooks.com/The-European-World-400-1450)
+  * [Full book list](http://bfbooks.com/Medieval-History-Intermediate-Pack)
+* Beautiful Feet: [Augustus Caesar's World](http://bfbooks.com/Augustus-Caesars-World?sc=17&category=8)
+* Beautiful Feet [Western Expansion] / Cherry-picking:
+  * [Study Guide](http://bfbooks.com/Western-Expansion-Study-Guide)
+  * [Full book list](http://bfbooks.com/Western-Expansion-of-the-US-Pack)
 
 ## Coding
 

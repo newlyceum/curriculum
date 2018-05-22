@@ -51,6 +51,14 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * the natural sciences, and
 * the fine arts.
 
+## Materials
+
+1. Ruled, spiral bound notebooks, 3 section (Social Studies, Science, English)
+2. Large pads of paper (for maps, diagrams, idea webs)
+3. Sketchbooks (for illustrations)
+4. Good pencils
+5. [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
+
 ## Digital / Media Literacy
 
 * [Project Look Sharp](https://www.projectlooksharp.org/?action=kits)
@@ -67,7 +75,6 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * World & US maps [2017]
 * [Birch Bark Series](https://www.amazon.com/Birchbark-House-Louise-Erdrich/dp/0786814543)
 * [VPR Timeline (Music History)](http://digital.vpr.net/programs/timeline#stream/0)
-* [Geoboard](https://www.amazon.com/Learning-Resources-LER1512-Two-Sided-Geoboard/dp/B000XP1Z1A/ref=sr_1_3?ie=UTF8&qid=1526828265&sr=8-3&keywords=geoboard)
 * Simon kept up with [Journey North](http://journeynorth.org) updates most weeks and wrote journal entries – Founder is VT-based [2017]
 * Beautiful Feet [Medieval History](http://bfbooks.com/Medieval-History-Intermediate-Pack) / Cherry-picking:
   * [Study Guide](http://bfbooks.com/Medieval-Intermediate-Study-Guide?sc=17&category=847)
@@ -119,7 +126,6 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
   * [Mihaly Csikszentmihalyi: Motivating People to Learn](https://www.edutopia.org/mihaly-csikszentmihalyi-motivating-people-learn)
   * [Eight Tips for Fostering Flow in the Classroom](https://greatergood.berkeley.edu/article/item/eight_tips_for_fostering_flow_in_the_classroom)
   * [Can Schools Help Students Find Flow?](https://greatergood.berkeley.edu/article/item/can_schools_help_students_find_flow)
-
 
 ## Other Resources
 

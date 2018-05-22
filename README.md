@@ -114,16 +114,17 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * Postman, Neil. Teaching as a Subversive Activity. [2017]
 * Gray, Peter. Free to Learn. [2017]
 * (Found both of Postman's books more relevant, practical, than Ivan Illich's Deschooling Society or John Holt's Instead of Education.) [2017]
-
-## Other Resources
-
 * [Alliance for Self-Directed Education](https://www.self-directed.org/) (Peter Gray)
 * [Hack Education](http://hackeducation.com/)
-* [Vermont Energy Education Program](http://veep.org/veep-programs/veep-curricula/)
 * Flow Theory for Kids
   * [Mihaly Csikszentmihalyi: Motivating People to Learn](https://www.edutopia.org/mihaly-csikszentmihalyi-motivating-people-learn)
   * [Eight Tips for Fostering Flow in the Classroom](https://greatergood.berkeley.edu/article/item/eight_tips_for_fostering_flow_in_the_classroom)
   * [Can Schools Help Students Find Flow?](https://greatergood.berkeley.edu/article/item/can_schools_help_students_find_flow)
+
+
+## Other Resources
+
+* [Vermont Energy Education Program](http://veep.org/veep-programs/veep-curricula/)
 
 ## Advanced Subjects
 

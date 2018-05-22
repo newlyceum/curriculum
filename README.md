@@ -26,7 +26,6 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 * [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)
 * Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/) [2017]
 * [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)
-  * ~~[Oak Meadow Assessments](http://oakmeadow.com/buy-learning-assessments/)~~
 * [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool) [2017]
 
 ## Additional Curriculum

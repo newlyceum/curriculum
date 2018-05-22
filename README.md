@@ -22,7 +22,7 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 ## Compliance / Core / Curriculum
 
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017]
-* Completed. **<small>FOR SALE</small>** ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~ [2017]
+* Completed. **FOR SALE** ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~ [2017]
 * [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)
 * Saving for Simon. [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/) [2017]
 * [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)

@@ -130,9 +130,9 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 
 ## Pedagogy
 
+* **Gray, Peter. Free to Learn.** [2017]
 * Postman, Neil. The End of Education. [2017]
 * Postman, Neil. Teaching as a Subversive Activity. [2017]
-* Gray, Peter. Free to Learn. [2017]
 * (Found both of Postman's books more relevant, practical, than Ivan Illich's Deschooling Society or John Holt's Instead of Education.) [2017]
 * [Alliance for Self-Directed Education](https://www.self-directed.org/) (Peter Gray)
 * [Hack Education](http://hackeducation.com/)

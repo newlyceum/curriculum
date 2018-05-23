@@ -5,7 +5,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 ## For 2018-2019: Start in the fall:
 
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
-* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group, we'll aim to do this more. [2017]
+* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2018-2019, we'll aim to do this more. [2017]
 * Not sure if we can integrate these Junior Duck Stamp curricula, but they look intriguing:
   * [Curriculum](https://www.fws.gov/birds/education/junior-duck-stamp-conservation-program/conservation-education-curriculum.php)
   * [Homeschool Guide](https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf)

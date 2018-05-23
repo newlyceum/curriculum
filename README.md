@@ -2,6 +2,10 @@
 
 UPDATED FOR 2018-2019. This document is a starting point for organizing homeschool resources. *([2017] indicates we used it in 2017-2018. I removed stuff we ended up not using.)*
 
+## Summer 2018
+
+* Jack published an article in the [Montpelier Bridge](http://www.montpelierbridge.com/)'s Summer Breeze issue in 2017. The deadline for this year's issue—Young Vermont—is June 29 (with additional review time requested for younger writers).
+
 ## For 2018-2019: Start in the fall:
 
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*

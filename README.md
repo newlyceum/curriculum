@@ -11,7 +11,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
   * [Homeschool Guide](https://www.fws.gov/migratorybirds/pdf/education/JuniorDuckStamp-HomeschoolGuide.pdf)
 * We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again [2017]
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) &ndash; 2017-2018 included cake decorating, tabletop game design
-* We'll be doing History for Homeschoolers again [2017]
+* We'll be doing [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) again [2017]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
 

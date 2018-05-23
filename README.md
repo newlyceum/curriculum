@@ -5,6 +5,8 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 ## Summer 2018
 
 * Jack published an article in the [Montpelier Bridge](http://www.montpelierbridge.com/)'s Summer Breeze issue in 2017. The deadline for this year's issue—Young Vermont—is June 29 (with additional review time requested for younger writers).
+* Games, Games, Games day camp at River Rock School
+* Swimming Lessons in Montpelier
 
 ## For 2018-2019: Start in the fall:
 

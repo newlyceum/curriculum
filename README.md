@@ -29,6 +29,8 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
 
 ## Compliance / Core / Curriculum
 
+We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but be looser with assignments alongside other projects, pursuits, and programs.
+
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017]
 * Completed. **FOR SALE** ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~ [2017]
 * [Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)

@@ -92,6 +92,7 @@ Can we do more deep dive project-based learning? What topics/interests/goals?
   * [Scratch 3.0 / Scratch for education](https://ww2.kqed.org/mindshift/2017/07/17/mits-scratch-program-is-evolving-for-greater-more-mobile-creativity/)
 * [Khan Academy](https://www.khanacademy.org/) [2017]
 * Thought not 'coding,' we used GarageBand (with a [basic MIDI controller](https://www.amazon.com/Korg-MICROKEY25-microKEY-MIDI-Keyboard/dp/B007VQIBB6)) and iMovie (for stop motion with pictures taken with an old iPhone) a lot in 2017
+* The kids also used [Pixilart](https://www.pixilart.com/draw) a lot for creating sprites for Scratch, or just drawing characters [2017]
 
 ### This is what our journals use; might use for projects
 

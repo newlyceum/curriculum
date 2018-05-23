@@ -10,7 +10,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * [Little River History Trail](https://www.vtstateparks.com/assets/pdf/little-river-trails.pdf) meetups?
 * Groton State Forest meetups? ([Boulder Beach](https://vtstateparks.com/boulder.html) swimming, [hiking trails](https://www.vtstateparks.com/assets/pdf/groton_trails.pdf))
 
-## For 2018-2019: Start in the fall:
+## For 2018-2019:
 
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2018-2019, we'll aim to do this more. [2017]
@@ -26,6 +26,8 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 Work on structure & scheduling, talk about [Maker vs. Manager](http://www.paulgraham.com/makersschedule.html).
 
 Can we do more deep dive project-based learning? What topics/interests/goals?
+
+I got Jack a copy of Susan Cain's [Quiet Power](https://www.bearpondbooks.com/book/9780803740600), the kids' & teens' version of Quiet, because managing energy is important for introverts.
 
 ## Compliance / Core / Curriculum
 

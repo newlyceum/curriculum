@@ -95,6 +95,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 * Beautiful Feet [Western Expansion] / Cherry-picking:
   * [Study Guide](http://bfbooks.com/Western-Expansion-Study-Guide)
   * [Full book list](http://bfbooks.com/Western-Expansion-of-the-US-Pack)
+* [Big History](https://www.bighistoryproject.com/chapters/1#intro)
 
 ## Coding
 

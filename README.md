@@ -18,7 +18,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again [2017]
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) &ndash; 2017-2018 included cake decorating, tabletop game design
 * We'll be doing [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) again [2017]
-* Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe?
+* Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
 
 Work on structure & scheduling, talk about [Maker vs. Manager](http://www.paulgraham.com/makersschedule.html).

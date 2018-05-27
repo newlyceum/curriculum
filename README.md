@@ -128,6 +128,8 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
   * [Audio CD](https://www.amazon.com/North-American-Cambridge-Latin-Course/dp/0521005027/ref=sr_1_1?ie=UTF8&qid=1526782388&sr=8-1&keywords=Cambridge+Latin+Course%3A+Unit+1+audio+cd)
   * [Book](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
   * [Workbook](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
+* [Getting Started with Latin](http://www.gettingstartedwithlatin.com/index.html) / Includes pronunciation links to accompany books
+* [Minimus Latin](http://www.minimus-etc.co.uk/newtominpage.htm)
 
 ## Pedagogy
 

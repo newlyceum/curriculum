@@ -100,6 +100,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 * [Big History](https://www.bighistoryproject.com/chapters/1#intro)
 * [Barracoon](https://www.harpercollins.com/9780062748201/barracoon/) / [teaching guide](https://b0f646cfbd7462424f7a-f9758a43fb7c33cc8adda0fd36101899.ssl.cf2.rackcdn.com/teaching-guides/TG-9780062748201.pdf)
 * [Good Citizen Challenge (VT)](https://1btbbau30pk40u8fj4cl4y4i-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/goodcitizen-scorecard-2018-v2.pdf)
+* [@NatGeoMaps](https://www.instagram.com/natgeomaps/) [via](https://news.nationalgeographic.com/2018/05/map-of-the-day-cartography-vintage-archive-culture/)
 
 ## Coding
 

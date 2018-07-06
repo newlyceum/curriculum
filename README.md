@@ -45,6 +45,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 * [Khan Academy Grammar](https://www.khanacademy.org/humanities/grammar)
 * [Beast Academy 3C & 3D](https://beastacademy.com/books/3C) (More challenging for Simon—ordered 05/2018)
 * *[Montshire Homeschooler Programs](https://www.montshire.org/programs/list/category/homeschooler-programs)* (We had a 2017-2018 Montshire pass, but only went once.)
+* Beast Academy 4D & 5A (For Jack, with extra review of operations with fractions, and doing more with equations. These tend to be above grade level, so they fit 5th grade Oak Meadow and bridge 6th grade.)
 
 #### Vermont Historical Society
 
@@ -126,12 +127,14 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 
 ## Foreign Language?
 
-* [Latin?](https://oakmeadow.com/news/courses/latin-i/)
-  * [Audio CD](https://www.amazon.com/North-American-Cambridge-Latin-Course/dp/0521005027/ref=sr_1_1?ie=UTF8&qid=1526782388&sr=8-1&keywords=Cambridge+Latin+Course%3A+Unit+1+audio+cd)
-  * [Book](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
-  * [Workbook](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)
+* ~~[Latin?](https://oakmeadow.com/news/courses/latin-i/)~~
+  * ~~[Audio CD](https://www.amazon.com/North-American-Cambridge-Latin-Course/dp/0521005027/ref=sr_1_1?ie=UTF8&qid=1526782388&sr=8-1&keywords=Cambridge+Latin+Course%3A+Unit+1+audio+cd)~~
+  * ~~[Book](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)~~
+  * ~~[Workbook](https://www.amazon.com/Cambridge-Latin-Course-North-American/dp/0521004349)~~
 * [Getting Started with Latin](http://www.gettingstartedwithlatin.com/index.html) / Includes pronunciation links to accompany books
 * [Minimus Latin](http://www.minimus-etc.co.uk/newtominpage.htm)
+* [Latin Vocabulary](https://www.amazon.com/gp/product/1572226978/ref=od_aui_detailpages00?ie=UTF8&psc=1)
+* [Latin Verbs](https://www.amazon.com/gp/product/1423233174/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 
 ## Pedagogy
 

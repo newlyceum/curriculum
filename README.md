@@ -103,6 +103,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
 * [Good Citizen Challenge (VT)](https://1btbbau30pk40u8fj4cl4y4i-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/goodcitizen-scorecard-2018-v2.pdf)
 * [@NatGeoMaps](https://www.instagram.com/natgeomaps/) [via](https://news.nationalgeographic.com/2018/05/map-of-the-day-cartography-vintage-archive-culture/)
 * [Earth Observatory Kids from NASA](https://earthobservatory.nasa.gov/eokids/)
+* [Zero](https://www.vox.com/science-and-health/2018/7/5/17500782/zero-number-math-explained)
 
 ## Coding
 

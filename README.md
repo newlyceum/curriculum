@@ -22,6 +22,7 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 * We'll be doing [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) again [2017]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
+* Day rate swimming at [Fairfield Inn hotel](https://www.marriott.com/hotels/travel/btvwb-fairfield-inn-and-suites-waterbury-stowe/) in Waterbury? +1 802-241-1600
 
 Work on structure & scheduling, talk about [Maker vs. Manager](http://www.paulgraham.com/makersschedule.html).
 

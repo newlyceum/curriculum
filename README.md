@@ -12,6 +12,8 @@ UPDATED FOR 2018-2019. This document is a starting point for organizing homescho
 
 ## For 2018-2019:
 
+* Jason Kottke recommended [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019) but it's wait listed.
+* Mad River Glen started a Homeschool Ski School program, which we enrolled in.
 * *Encourage Jack to do [Vermont History Day](http://vermonthistory.org/educate/vermont-history-day).*
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2018-2019, we'll aim to do this more. [2017]
 * Not sure if we can integrate these Junior Duck Stamp curricula, but they look intriguing:

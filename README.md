@@ -156,6 +156,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for our lessons, but 
   * [Mihaly Csikszentmihalyi: Motivating People to Learn](https://www.edutopia.org/mihaly-csikszentmihalyi-motivating-people-learn)
   * [Eight Tips for Fostering Flow in the Classroom](https://greatergood.berkeley.edu/article/item/eight_tips_for_fostering_flow_in_the_classroom)
   * [Can Schools Help Students Find Flow?](https://greatergood.berkeley.edu/article/item/can_schools_help_students_find_flow)
+* [Motivating Middle Schoolers](https://www.oakmeadow.com/motivating-middle-schoolers/)
 
 ## Other Resources
 

@@ -4,12 +4,12 @@
 
 *[2017] indicates we used it in 2017-2018. [2018] indicates we used it in 2018-2019.*
 
-## Summer 2018
+## Summer 2019
 
 * Gone Fishin' (fish ecology) Camp at North Branch Nature Center
 * Swimming Lessons in Montpelier [2017,2018]
 
-## For 2018-2019:
+## For 2019-2020:
 
 * Check in with Jason Kottke for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?
 * Check for Mad River Glen Homeschool program in winter 2020? [2018]

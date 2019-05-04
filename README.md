@@ -15,7 +15,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 * Check for Mad River Glen Homeschool program in winter 2020? [2018]
 * Check for Dog River Ed Co-op classes [2018]
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]
-* We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again (skews young, but is a really great program/destination) [2017]
+* We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again (skews young, but is a really great program/destination) [2017,2018]
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) [2018]
 * ?? [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) ?? [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?

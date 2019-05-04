@@ -13,6 +13,7 @@
 
 * Check in with Jason Kottke for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?
 * Check for Mad River Glen Homeschool program in winter 2020? [2018]
+* Check for Dog River Ed Co-op classes [2018]
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]
 * We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again [2017]
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) [2018]
@@ -46,3 +47,24 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 
 * Both kids will use [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra)
 * **The Joy of x** by Steven Strogatz (2018) and **Here's Looking at Euclid** by Alex Bellos
+
+### Language Arts
+
+* Oak Meadow 7th Grade English Manual for Middle School, Teacher's Manual. Not coursebook.
+
+### Social Studies
+
+From Oak Meadow (and Common Core):
+
+* Empires of Asia
+* European Age of Enlightenment
+* French Revolution
+* Industrial Revolution
+* Slavery and U.S. Civil War
+* Nationalism and Imperialism
+* World Wars
+* United Nations
+* Cold War
+* Conflicts in Asia and the Middle East (Korean War, Vietnam...Gulf War, Afghanistan, Iraq War)
+* Information Age
+* Technology

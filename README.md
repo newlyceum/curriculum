@@ -1,6 +1,6 @@
 # Homeschool Resources
 
-2019-2018 School Year. This document is a starting point for organizing homeschool resources. *([2017] indicates we used it in 2017-2018. [2018] indicates we used it in 2018-2019.*
+2019-2018 School Year. This document is a starting point for organizing homeschool resources. *[2017] indicates we used it in 2017-2018. [2018] indicates we used it in 2018-2019.*
 
 ## Summer 2018
 

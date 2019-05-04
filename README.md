@@ -25,7 +25,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 Unschooling with curriculum.
 
-Neil Postman's prescription in **Technocracy** to teach "the ascent of humanity," incorporating the history of how we got to where we are in all subjects and our collective accomplishments as a common, unifying thread.
+Neil Postman's prescription in *Technocracy* to teach "the ascent of humanity," incorporating the history of how we got to where we are in all subjects and our collective accomplishments as a common, unifying thread.
 
 ## Compliance / Core / Curriculum
 
@@ -47,11 +47,11 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 ### Math
 
 * Both kids will use [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra)
-* **The Joy of x** by Steven Strogatz (2018) and **Here's Looking at Euclid** by Alex Bellos
+* *The Joy of x* by Steven Strogatz (2018) and *Here's Looking at Euclid* by Alex Bellos
 
 ### Language Arts
 
-* Oak Meadow 7th Grade English Manual for Middle School for reference; Teacher's Manual for topics. *No coursebook.*
+* Oak Meadow 7th Grade English Manual for Middle School for reference; Teacher's Manual for topics. **No coursebook.**
 
 ### Social Studies
 

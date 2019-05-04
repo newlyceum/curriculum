@@ -25,7 +25,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 Unschooling with curriculum.
 
-Neil Postman's prescription in Technocracy to teach "the ascent of humanity," incorporating the history of how we got to where we are in all subjects and our collective accomplishments as a common, unifying thread.
+Neil Postman's prescription in **Technocracy** to teach "the ascent of humanity," incorporating the history of how we got to where we are in all subjects and our collective accomplishments as a common, unifying thread.
 
 ## Compliance / Core / Curriculum
 

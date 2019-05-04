@@ -68,3 +68,10 @@ From Oak Meadow (and Common Core):
 * Conflicts in Asia and the Middle East (Korean War, Vietnam...Gulf War, Afghanistan, Iraq War)
 * Information Age
 * Technology
+
+#### Books and Materials
+
+Use Beautiful Feet catalog as book lists, check library:
+
+* [Modern American and World History](http://www.bfbooks.com/Modern-American-and-World-Modern-History-Pack?sc=18&category=1894)
+* [Early American and World History](http://www.bfbooks.com/E-A-and-World-History-Jr-High-Pack?sc=18&category=855)

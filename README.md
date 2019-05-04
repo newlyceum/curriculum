@@ -54,7 +54,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 
 ### Social Studies
 
-From Oak Meadow (and Common Core):
+From Oak Meadow (and Common Core) for Grade 7:
 
 * Empires of Asia
 * European Age of Enlightenment

@@ -20,6 +20,12 @@
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
 
+## Our Approach
+
+Unschooling with curriculum.
+
+Neil Postman's prescription in Technocracy to teach "the ascent of humanity," incorporating the history of how we got to where we are in all subjects and our collective accomplishments as a common, unifying thread.
+
 ## Compliance / Core / Curriculum
 
 We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our lessons.
@@ -34,3 +40,9 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 ### Science
 
 * [8 Ways to Teach Climate Change in Almost Any Classroom](https://www.npr.org/2019/04/25/716359470/eight-ways-to-teach-climate-change-in-almost-any-classroom)
+* [Oak Meadow 7th Grade](https://www.oakmeadowbookstore.com/Curriculum/Seventh-Grade/Grade-7-Science-Coursebook-p3491.html)
+
+### Math
+
+* Both kids will use [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra)
+* **The Joy of x** by Steven Strogatz (2018) and **Here's Looking at Euclid** by Alex Bellos

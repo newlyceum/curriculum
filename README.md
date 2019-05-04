@@ -51,7 +51,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 
 ### Language Arts
 
-* Oak Meadow 7th Grade English Manual for Middle School, Teacher's Manual. Not coursebook.
+* Oak Meadow 7th Grade English Manual for Middle School for reference; Teacher's Manual for topics. *No coursebook.*
 
 ### Social Studies
 

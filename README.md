@@ -70,6 +70,8 @@ From Oak Meadow (and Common Core) for Grade 7:
 * Information Age
 * Technology
 
+[Ancient Civilizations listed](http://www.bbc.com/future/story/20190218-the-lifespans-of-ancient-civilisations-compared?ocid=global_future_rss)
+
 #### Books and Materials
 
 Use Beautiful Feet catalog as book lists, check library:

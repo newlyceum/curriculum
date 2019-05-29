@@ -6,7 +6,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 ## Summer 2019
 
-* Gone Fishin' (fish ecology) Camp at North Branch Nature Center
+* ~~Gone Fishin' Camp at North Branch Nature Center~~
 * Swimming Lessons in Montpelier [2017,2018]
 
 ## For 2019-2020
@@ -20,6 +20,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 * ?? [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) ?? [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
+* Check out Fall afterschool programs at North Branch Nature Center
 
 ## Our Approach
 

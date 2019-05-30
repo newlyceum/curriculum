@@ -12,7 +12,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 ## For 2019-2020
 
 * Check in for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?
-* Check for Mad River Glen Homeschool program in winter 2020? [2018]
+* Check for Mad River Glen Homeschool program in winter 2020 [2018]
 * Check for Dog River Ed Co-op classes [2018]
 * [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]
 * We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again (skews young, but is a really great program/destination) [2017,2018]
@@ -71,7 +71,11 @@ From Oak Meadow (and Common Core) for Grade 7:
 * Information Age
 * Technology
 
+[Zinn Education Project](https://www.zinnedproject.org/)
+
 [Ancient Civilizations listed](http://www.bbc.com/future/story/20190218-the-lifespans-of-ancient-civilisations-compared?ocid=global_future_rss)
+
+[Oak Meadow Foundations of Social Justice](https://www.oakmeadow.com/foundations-in-social-justice/) (We have this PDF download)
 
 #### Books and Materials
 

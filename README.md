@@ -77,6 +77,8 @@ From Oak Meadow (and Common Core) for Grade 7:
 
 [Oak Meadow Foundations of Social Justice](https://www.oakmeadow.com/foundations-in-social-justice/) (We have this PDF download)
 
+[Use political cartoons](http://editorialcartoonists.com/) to highlight issues of the day and analyze for different perspectives.
+
 #### Books and Materials
 
 Use Beautiful Feet catalog as book lists, check library:

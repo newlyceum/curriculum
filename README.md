@@ -79,6 +79,8 @@ From Oak Meadow (and Common Core) for Grade 7:
 
 [Use political cartoons](http://editorialcartoonists.com/) to highlight issues of the day and analyze for different perspectives.
 
+[Story of Stuff Movies](https://storyofstuff.org/movies/) (and annotated scripts).
+
 #### Books and Materials
 
 Use Beautiful Feet catalog as book lists, check library:

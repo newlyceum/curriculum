@@ -44,6 +44,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 * [8 Ways to Teach Climate Change in Almost Any Classroom](https://www.npr.org/2019/04/25/716359470/eight-ways-to-teach-climate-change-in-almost-any-classroom)
 * [NASA's Earth Systems Science](https://climate.nasa.gov/nasa_science/science/)
 * [Oak Meadow 7th Grade](https://www.oakmeadowbookstore.com/Curriculum/Seventh-Grade/Grade-7-Science-Coursebook-p3491.html)
+* [Earth Guardians](https://www.earthguardians.org/resources) Climate Change Resources
 
 ### Math
 

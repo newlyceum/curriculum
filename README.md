@@ -6,7 +6,6 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 ## Summer 2019
 
-* ~~Gone Fishin' Camp at North Branch Nature Center~~
 * Swimming Lessons in Montpelier [2017,2018]
 
 ## For 2019-2020

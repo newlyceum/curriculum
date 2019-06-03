@@ -77,7 +77,7 @@ From Oak Meadow (and Common Core) for Grade 7:
 
 [Oak Meadow Foundations of Social Justice](https://www.oakmeadow.com/foundations-in-social-justice/) (We have this PDF download)
 
-[Use political cartoons](http://editorialcartoonists.com/) to highlight issues of the day and analyze for different perspectives.
+[Use political cartoons](http://editorialcartoonists.com/) to highlight issues of the day and analyze for different perspectives. (See also [Cartoons for the Classroom](https://nieonline.com/aaec/cftc.cfm).)
 
 [Story of Stuff Movies](https://storyofstuff.org/movies/) (and annotated scripts).
 

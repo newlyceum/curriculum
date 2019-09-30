@@ -79,7 +79,7 @@ From Oak Meadow (and Common Core) for Grade 7:
 * Information Age
 * Technology
 
-Jack is reading Silk Roads.
+Jack is reading Silk Roads
 
 [Zinn Education Project](https://www.zinnedproject.org/)
 

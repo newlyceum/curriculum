@@ -6,7 +6,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 ## Summer 2019
 
-* Swimming Lessons in Montpelier [2017,2018]
+* [x] Swimming Lessons in Montpelier [2017,2018]
 
 ## For 2019-2020
 

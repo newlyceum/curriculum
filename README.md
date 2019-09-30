@@ -11,15 +11,18 @@ The 2019-2020 school year is our third year of home study. This document is a st
 ## For 2019-2020
 
 * Check in for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?
-* Check for Mad River Glen Homeschool program in winter 2020 [2018]
-* Check for Dog River Ed Co-op classes [2018]
-* [Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]
+[x] Check for Mad River Glen Homeschool program in winter 2020 [2018]
+* ~~Check for Dog River Ed Co-op classes [2018]~~
+* ~~[Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]~~
 * We'll be doing [Billings Farm](https://billingsfarm.org/education/homeschooler-days/) again (skews young, but is a really great program/destination) [2017,2018]
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) [2018]
-* ?? [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) ?? [2017,2018]
+[x] [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
-* Check out Fall [afterschool programs at North Branch Nature Center](https://northbranchnaturecenter.org/explorers-trekkers-after-school-program/)
+* Ice skating with friends at Norwich University.
+* ~~Check out Fall [afterschool programs at North Branch Nature Center](https://northbranchnaturecenter.org/explorers-trekkers-after-school-program/)~~
+* edX courses, including Star Trek's impact on culture and China in the Middle Ages.
+* [Media analysis handouts and materials from Project Look Sharp](https://www.projectlooksharp.org/?action=medialithandouts)
 
 ## Our Approach
 
@@ -47,7 +50,8 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 
 ### Math
 
-* Both kids will use [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra)
+* ~~Both kids will use~~ We're using [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra) to explore proofs and concepts together.
+* [x] We're using Oak Meadow 7th Grade & 5th Grade Math curricula.
 * *The Joy of x* by Steven Strogatz (2018) and *Here's Looking at Euclid* by Alex Bellos
 
 ### Language Arts
@@ -70,6 +74,8 @@ From Oak Meadow (and Common Core) for Grade 7:
 * Conflicts in Asia and the Middle East (Korean War, Vietnam...Gulf War, Afghanistan, Iraq War)
 * Information Age
 * Technology
+
+Jack is reading Silk Roads.
 
 [Zinn Education Project](https://www.zinnedproject.org/)
 

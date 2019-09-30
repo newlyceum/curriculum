@@ -60,6 +60,7 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 ### Language Arts
 
 * Oak Meadow 7th Grade English Manual for Middle School for reference; Teacher's Manual for topics. **No coursebook.**
+* Reading Emily Wilson's The Odyssey together.
 
 ### Social Studies
 

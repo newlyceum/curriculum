@@ -10,7 +10,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 
 ## For 2019-2020
 
-* Check in for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?
+* ~~Check in for Fall 2019 [Sculpture School](https://sculptureschoolvt.squarespace.com/sculpture-homeschool-spring-2019)?~~
 * [x] Check for Mad River Glen Homeschool program in winter 2020 [2018]
 * ~~Check for Dog River Ed Co-op classes [2018]~~
 * ~~[Audubon](http://vt.audubon.org/programs/homeschool-programs): Both kids in same age group in 2019. [2017]~~

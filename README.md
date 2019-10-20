@@ -30,6 +30,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
 * [Media analysis handouts and materials from Project Look Sharp](https://www.projectlooksharp.org/?action=medialithandouts)
 * Daily Duolingo for French
 * Music lessons (Jack:guitar, Simon:ocarina) with Nancy Taube
+* [VT Good Citizen Challenge](https://goodcitizenvt.com/)
 
 ## Our Approach
 

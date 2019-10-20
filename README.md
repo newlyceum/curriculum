@@ -18,6 +18,8 @@ The 2019-2020 school year is our third year of home study. This document is a st
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) [2018]
   * [x] Makerspace Intro
   * [x] Orienteering & Maps
+  * [ ] Fencing
+  * [ ] Stage Combat (just Jack)
 * [x] [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?

@@ -98,6 +98,8 @@ Jack is reading Silk Roads
 
 [Story of Stuff Movies](https://storyofstuff.org/movies/) (and annotated scripts).
 
+[The 1619 Project Curriculum](https://pulitzercenter.org/projects/1619-project-pulitzer-center-education-programming)
+
 #### Books and Materials
 
 Use Beautiful Feet catalog as book lists, check library:

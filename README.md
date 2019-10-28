@@ -58,6 +58,8 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 * [Oak Meadow 7th Grade](https://www.oakmeadowbookstore.com/Curriculum/Seventh-Grade/Grade-7-Science-Coursebook-p3491.html)
 * [Earth Guardians](https://www.earthguardians.org/resources) Climate Change Resources
 
+? [Kids Making Sense Air Quality Sensor Kit](https://kidsmakingsense.org/) ?
+
 ### Math
 
 * ~~Both kids will use~~ We're using [Art of Problem Solving Pre-Algebra](https://artofproblemsolving.com/store/item/prealgebra) to explore proofs and concepts together.

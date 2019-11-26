@@ -18,17 +18,19 @@ The 2019-2020 school year is our third year of home study. This document is a st
 * Watch for [Thursday workshops at Pacem School](http://pacemschool.org/beyond-academics/thursday-workshops/) [2018]
   * [x] Makerspace Intro
   * [x] Orienteering & Maps
-  * [ ] Fencing
-  * [ ] Stage Combat (just Jack)
+  * [x] Fencing
+  * [x] Stage Combat (just Jack)
+  * [ ] Improv
+  * [ ] Costume making
 * [x] [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
-* Ice skating with friends at Norwich University
+* Ice skating with friends at Norwich University or Waterbury Ice Center
 * ~~Check out Fall [afterschool programs at North Branch Nature Center](https://northbranchnaturecenter.org/explorers-trekkers-after-school-program/)~~
 * edX courses, including Star Trek's impact on culture, China in the Middle Ages, and Climate Science by Michael Mann
-  * Simon & Jack completed the 1st Star Trek Culture course
+  * Simon & Jack completed the 1st & 2nd Star Trek Culture courses
   * Jack completed the 1st China (Mongols) course
-  * Jack completed some of the Climate Science course
+  * Jack completed the Climate Science course
 * [Media analysis handouts and materials from Project Look Sharp](https://www.projectlooksharp.org/?action=medialithandouts)
 * Daily Duolingo for French
 * Music lessons (Jack:guitar, Simon:ocarina) with Nancy Taube

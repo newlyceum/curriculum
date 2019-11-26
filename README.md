@@ -75,7 +75,13 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 
 ### Social Studies
 
-From Oak Meadow (and Common Core) for Grade 7:
+#### Grade 5:
+
+* [x] Simon watched HBO's John Adams (as Jack did in 5th Grade)
+* [x] We visited Fort Ticonderoga
+* [x] Early American History audiobooks in the car on road trips (see 2019-2020 books read list)
+
+#### From Oak Meadow (and Common Core) for Grade 7:
 
 * Empires of Asia
 * European Age of Enlightenment
@@ -90,7 +96,7 @@ From Oak Meadow (and Common Core) for Grade 7:
 * Information Age
 * Technology
 
-Jack is reading Silk Roads
+Jack read Silk Roads
 
 [Zinn Education Project](https://www.zinnedproject.org/)
 

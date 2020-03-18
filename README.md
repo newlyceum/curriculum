@@ -121,6 +121,6 @@ Use Beautiful Feet catalog as book lists, check library:
 
 I like this [Exposing the Invisible Kit](https://kit.exposingtheinvisible.org/index.html) from Tactical Tech a lot.
 
-##
+## Future
 
 [Governor's Institutes of Vermont](https://giv.org/)

@@ -1,6 +1,6 @@
 # Homeschool Resources
 
-The 2019-2020 school year is our third year of home study. This document is a starting point for organizing homeschool resources. See [2017-2019 resources](https://github.com/newlyceum/curriculum/blob/master/2018.md).
+The 2019-2020 school year is our third year of home study. This document is a starting point for organizing homeschool resources. See [2018-2019 resources](https://github.com/newlyceum/curriculum/blob/master/2018.md).
 
 *[2017] indicates we used it in 2017-2018. [2018] indicates we used it in 2018-2019.*
 

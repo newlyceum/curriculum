@@ -21,7 +21,7 @@ The 2019-2020 school year is our third year of home study. This document is a st
   * [x] Fencing
   * [x] Stage Combat (just Jack)
   * [x] Improv
-  * [ ] Costume making (January)
+  * [x] Costume making (January)
 * [x] [History for Homeschoolers](http://vermonthistory.org/educate/homeschool) (tends to be a lot of little kids) [2017,2018]
 * Meetups at [The Swimming Hole](https://theswimmingholestowe.com/) in Stowe? [First in Fitness](http://www.firstinfitness.com/pool-schedule) in Berlin?
 * Field trip to [Greenspark Sustainability Park](http://greensparkvt.com/)?
@@ -49,9 +49,9 @@ We'll continue to use Oak Meadow as rubric and scaffolding for **some of** our l
 * [Vermont Agency of Education: Home Study](http://education.vermont.gov/vermont-schools/school-operations/home-study) [2017,2018]
 * ~~[Oak Meadow 3rd Grade](http://www.oakmeadowbookstore.com/Third-Grade-c149/)~~ [2017]
 * ~~[Oak Meadow 4th Grade](http://www.oakmeadowbookstore.com/Fourth-Grade-c150/)~~ [2018]
-* [Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/) [2017, 2019]
-* [Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/) [2018]
-* [Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool) [2017,2018]
+* ~~[Oak Meadow 5th Grade](http://www.oakmeadowbookstore.com/Fifth-Grade-c151/)~~ [2017, 2019]
+* ~~[Oak Meadow 6th Grade](http://www.oakmeadowbookstore.com/Sixth-Grade-c152/)~~ [2018]
+* ~~[Vermont Historical Society: History for Homeschoolers](http://vermonthistory.org/educate/homeschool)~~ [2017,2018]
 
 ### Science
 
